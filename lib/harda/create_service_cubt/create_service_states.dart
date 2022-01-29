@@ -1,0 +1,10 @@
+abstract class CreateServiceState{}
+class CreateServiceInitialState extends CreateServiceState{}
+class CreateServicePickImageState extends CreateServiceState{}
+class ChangeAudienceValueState extends CreateServiceState{}
+class ChangeServiceTypeValueState extends CreateServiceState{}
+class ChangeServiceBrandTypeValueState extends CreateServiceState{}
+class ChangeServiceStockAvailabilityValueState extends CreateServiceState{}
+class ChangeUsesTypeValueState extends CreateServiceState{}
+class ChangeServicePriceTypeValueState extends CreateServiceState{}
+class ChangeAfghanValueState extends CreateServiceState{}

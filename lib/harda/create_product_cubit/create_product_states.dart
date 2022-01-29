@@ -1,0 +1,10 @@
+abstract class CreateProductState{}
+class CreateProductInitialState extends CreateProductState{}
+class CreateProductPickImageState extends CreateProductState{}
+class ChangeAudienceValueState extends CreateProductState{}
+class ChangeProductTypeValueState extends CreateProductState{}
+class ChangeProductBrandTypeValueState extends CreateProductState{}
+class ChangeProductStockAvailabilityValueState extends CreateProductState{}
+class ChangeUsesTypeValueState extends CreateProductState{}
+class ChangePriceTypeValueState extends CreateProductState{}
+class ChangeAfghanValueState extends CreateProductState{}

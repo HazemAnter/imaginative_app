@@ -1,0 +1,11 @@
+abstract class CreateSkillTalentState{}
+class CreateSkillTalentInitialState extends CreateSkillTalentState{}
+class CreateSkillTalentPickImageState extends CreateSkillTalentState{}
+class ChangeAudienceValueState extends CreateSkillTalentState{}
+class ChangeHiringValueState extends CreateSkillTalentState{}
+class ChangeSkillTalentTypeValueState extends CreateSkillTalentState{}
+class ChangeSkillTalentBrandTypeValueState extends CreateSkillTalentState{}
+class ChangeSkillTalentStockAvailabilityValueState extends CreateSkillTalentState{}
+class ChangeUsesTypeValueState extends CreateSkillTalentState{}
+class ChangeSkillTalentPriceTypeValueState extends CreateSkillTalentState{}
+class ChangeAfghanValueState extends CreateSkillTalentState{}
